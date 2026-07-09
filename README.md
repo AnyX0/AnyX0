@@ -18,13 +18,13 @@
 
 ## The Vibe
 
-Code is not just about making things work, but making them meaningful, scalable, and elegant.
+Code is not just about making things work, but designing for both exceptional user experience and uncompromising security.
 
-- Primary focus: modern web platforms, product-grade architecture, and polished developer experience.
-- Working style: fast iteration, measurable impact, and maintainable codebase.
-- Goal: build software that feels premium in both UX and engineering quality.
+- Primary focus: modern backend infrastructure, bulletproof APIs, and proactive defense against vulnerabilities.
+- Working style: structured project architecture, an offensive-security mindset, and maintainable codebase.
+- Goal: build software that feels premium in its elegant UI while keeping the engine locked down and highly scalable.
 
-## Signature Widgets
+## Contributors Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AnyX0/AnyX0/output/snake.svg" alt="snake animation" />
