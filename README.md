@@ -24,26 +24,7 @@ Code is not just about making things work, but making them meaningful, scalable,
 - Working style: fast iteration, measurable impact, and maintainable codebase.
 - Goal: build software that feels premium in both UX and engineering quality.
 
-<p align="center">
-  <img width="460" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWQxN2V3N2VnN2d3NXA2Y2x0aWl2eWR0N2xvZHh6dDFoN2xxdWoxMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" alt="animated coding gif" />
-</p>
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,go,java,postgres,mongodb,redis,docker,kubernetes,aws,git,linux,figma,tailwind&perline=9" alt="tech stack" />
-</p>
-
 ## Signature Widgets
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnyX0&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="trophies" />
-</p>
-
-<p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=AnyX0&show_icons=true&hide_border=true&theme=transparent&title_color=145369&icon_color=2e8a99&text_color=1d2b35&rank_icon=github" alt="stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnyX0&layout=compact&hide_border=true&theme=transparent&title_color=145369&text_color=1d2b35" alt="top languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AnyX0&hide_border=true&theme=default&ring=145369&fire=2e8a99&currStreakLabel=145369" alt="streak" />
