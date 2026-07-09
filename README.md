@@ -27,14 +27,6 @@ Code is not just about making things work, but making them meaningful, scalable,
 ## Signature Widgets
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AnyX0&hide_border=true&theme=default&ring=145369&fire=2e8a99&currStreakLabel=145369" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnyX0&bg_color=ffffff&color=145369&line=2e8a99&point=0b1d26&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/AnyX0/AnyX0/output/snake.svg" alt="snake animation" />
 </p>
 
