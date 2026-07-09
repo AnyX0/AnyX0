@@ -31,19 +31,6 @@ Code is not just about making things work, but making them meaningful, scalable,
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="dev quote widget" />
-</p>
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?bgColor=%23ffffff&qColor=%23145369&aColor=%232e8a99&borderColor=%230b1d26" alt="joke widget" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/social/stack-overflow.svg" width="0" height="0" alt="spacer" />
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=120&text=Always%20Building.%20Always%20Shipping.&fontSize=28&color=0:145369,100:2e8a99&fontColor=f8fcff&animation=fadeIn" alt="animated statement" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnyX0&theme=github" alt="profile details" />
 </p>
 
