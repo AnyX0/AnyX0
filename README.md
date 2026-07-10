@@ -52,9 +52,10 @@ Code is not just about making things work, but designing for both exceptional us
 
 <p align="center">
   <a href="https://github.com/AnyX0"><img src="https://img.shields.io/badge/GitHub-0b1d26?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
-  <a href="www.linkedin.com/in/andigustiawan"><img src="https://img.shields.io/badge/LinkedIn-145369?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://www.linkedin.com/in/andigustiawan"><img src="https://img.shields.io/badge/LinkedIn-145369?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a href="mailto:moxer404@aol.com"><img src="https://img.shields.io/badge/Email-2e8a99?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
   <a href="https://wa.me/6282269898199"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp" /></a>
+  <br>
   <a href="https://www.instagram.com/akuuuandi"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" /></a>
   <a href="https://www.facebook.com/moxer404"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" /></a>
   <a href="https://steamcommunity.com/id/Moxer404/"><img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="steam" /></a>
