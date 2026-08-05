@@ -30,9 +30,9 @@ Code is not just about making things work, but designing for both exceptional us
   <img src="https://raw.githubusercontent.com/AnyX0/AnyX0/output/snake.svg" alt="snake animation" />
 </p>
 
-<p align="center">
+/* <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnyX0&theme=github" alt="profile details" />
-</p>
+</p> */
 
 ## Featured Work
 
